@@ -1,0 +1,18 @@
+{
+  "name": "EventEmitter",
+  "version": "0.0.0",
+  "authors": [
+    "FXHibon <djxf44@gmail.com>"
+  ],
+  "description": "Simple event emitter",
+  "main": "event-emitter.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
